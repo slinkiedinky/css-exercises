@@ -1,0 +1,19 @@
+.classp {
+    background: pink;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two{
+ color:blue;
+ font-size: 36px;
+}
+
+#three{
+ font-size: 24px;
+}
+
+#four{
+background: green;
+font-size: 24px; 
+font-weight: bold;
+}
